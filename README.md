@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Saran Kumar R<br>- 👀 I’m interested in Backend development. <br>- 🌱 I’m currently learning Spring. <br>- 📫 Reach me through LinkedIn https://www.linkedin.com/in/saran-kumar-r-936b02203<br>- Leetcode : https://leetcode.com/Sarankumar_R/<br>- HackerRank : https://www.hackerrank.com/sarankumar_r0076
+- 👋 Hi, I’m Saran Kumar R<br>- 👀 I’m interested in Backend development. <br>- 🌱 I’m currently learning Springboot. <br>- 📫 Reach me through LinkedIn https://www.linkedin.com/in/saran-kumar-r-936b02203<br>- Leetcode : https://leetcode.com/Sarankumar_R/<br>- HackerRank : https://www.hackerrank.com/sarankumar_r0076
 
 
 ## 🌐 Socials:
