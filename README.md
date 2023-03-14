@@ -25,7 +25,7 @@
   
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarankumar007&theme=dark&hide_border=true)<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarankumar007&show_icons=true&locale=en&layout=compact" alt="sarankumar007" /></p>
+
 
 <br>
 
