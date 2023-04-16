@@ -25,7 +25,10 @@
   
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarankumar007&theme=dark&hide_border=true)<br/>
-
+## 🧑‍💻 Leetcode Stats
+<p>
+  <img  src="https://leetcard.jacoblin.cool/Sarankumar_R?theme=dark&font=ABeeZee&ext=heatmap"/>
+</p>
 
 <br>
 
